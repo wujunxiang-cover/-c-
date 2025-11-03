@@ -1,2 +1,2 @@
-# -c-
+# student_score_admin_system
 能实现简要的存储修改查看学生成绩的功能
